@@ -1,0 +1,10 @@
+D:\Dasha\UL\Engineering\EngineeringProject\EngineeringProject\bin\Debug\EngineeringProject.exe.config
+D:\Dasha\UL\Engineering\EngineeringProject\EngineeringProject\bin\Debug\EngineeringProject.exe
+D:\Dasha\UL\Engineering\EngineeringProject\EngineeringProject\bin\Debug\EngineeringProject.pdb
+D:\Dasha\UL\Engineering\EngineeringProject\EngineeringProject\obj\Debug\EngineeringProject.csprojResolveAssemblyReference.cache
+D:\Dasha\UL\Engineering\EngineeringProject\EngineeringProject\obj\Debug\EngineeringProject.Form1.resources
+D:\Dasha\UL\Engineering\EngineeringProject\EngineeringProject\obj\Debug\EngineeringProject.Properties.Resources.resources
+D:\Dasha\UL\Engineering\EngineeringProject\EngineeringProject\obj\Debug\EngineeringProject.csproj.GenerateResource.cache
+D:\Dasha\UL\Engineering\EngineeringProject\EngineeringProject\obj\Debug\EngineeringProject.csproj.CoreCompileInputs.cache
+D:\Dasha\UL\Engineering\EngineeringProject\EngineeringProject\obj\Debug\EngineeringProject.exe
+D:\Dasha\UL\Engineering\EngineeringProject\EngineeringProject\obj\Debug\EngineeringProject.pdb
